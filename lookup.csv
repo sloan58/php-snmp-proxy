@@ -1,0 +1,4 @@
+ip,collector
+127.0.0.1,collector1
+192.168.1.158,collector1
+192.168.1.5,collector2
